@@ -8,7 +8,7 @@
       "USA"
     ],
     "category": "Personal Services",
-    "image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg",
+    "image_url": "https://api.neuroschemas.app/images/hairdressers_640x480.jpg",
     "name": "Hairdressers",
     "shortuuid": "D181B0",
     "events": [
@@ -53,7 +53,7 @@
           }
         ],
         "behaviours_available": true,
-        "event_image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg"
+        "event_image_url": "https://api.neuroschemas.app/images/hairdressers_booking_640x480.jpg"
       },
       {
         "behaviours": [
@@ -95,7 +95,7 @@
         ],
         "behaviours_available": true,
         "event_name": "Going to and arriving at hairdressing salon",
-        "event_image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg",
+        "event_image_url": "https://api.neuroschemas.app/images/hairdressers_640x480.jpg",
         "rank": 2
       },
       {
@@ -151,7 +151,7 @@
             "type": "unpopular_norm"
           }
         ],
-        "event_image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg",
+        "event_image_url": "https://api.neuroschemas.app/images/hairdressers_waiting_area_640x480.jpg",
         "rank": 3,
         "event_name": "Waiting in the waiting area for the hairdresser and the consultation"
       },
@@ -219,7 +219,7 @@
           }
         ],
         "behaviours _available": true,
-        "event_image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg",
+        "event_image_url": "https://api.neuroschemas.app/images/hairdressers_colouring_640x480.jpg",
         "event_name": "Colouring of hair",
         "rank": 4
       },
@@ -274,13 +274,13 @@
           }
         ],
         "rank": 5,
-        "event_image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg"
+        "event_image_url": "https://api.neuroschemas.app/images/hairdressers_washing_hair_640x480.jpg"
       },
       {
         "rank": 6,
         "event_name": "Having a haircut",
         "behaviours _available": true,
-        "event_image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg",
+        "event_image_url": "https://api.neuroschemas.app/images/hairdressers_cutting_hair_640x480.jpg",
         "behaviours": [
           {
             "type": "prescriptive_norm",
@@ -332,7 +332,7 @@
       {
         "rank": 7,
         "event_name": "After the hairdressing services are finished ",
-        "event_image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg",
+        "event_image_url": "https://api.neuroschemas.app/images/hairdressers_payment_of_service_640x480.jpg",
         "behaviours _available": true,
         "behaviours": [
           {
@@ -378,5 +378,5 @@
     "version": "1.0",
     "license": "GNU-AGPLv3",
     "license_terms": "https://www.gnu.org/licenses/agpl-3.0.en.html",
-    "updatedAt": { "$date": "2022-01-19T09:58:25+0000" }
+    "updatedAt": { "$date": "2022-08-07T09:58:25+0000" }
   }

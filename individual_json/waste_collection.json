@@ -38,7 +38,7 @@
             "description": "Storing a lot of waste in the garden of your property may breach your tenancy agreement (if renting) or may cause problems with your neighbours and the council. "
           }
         ],
-        "event_image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg",
+        "event_image_url": "https://api.neuroschemas.app/images/waste_collection_preparing_640x480.jpg",
         "rank": 1
       },
       {
@@ -87,7 +87,7 @@
             "type": "infraction"
           }
         ],
-        "event_image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg"
+        "event_image_url": "https://api.neuroschemas.app/images/waste_collection_640x480.jpg"
       },
       {
         "behaviours_available": true,
@@ -135,13 +135,13 @@
         ],
         "event_name": "Disposing of bulky and extra waste",
         "rank": 3,
-        "event_image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg"
+        "event_image_url": "https://api.neuroschemas.app/images/waste_collection_bulky_640x480.jpg"
       }
     ],
     "country_code": [
       "GBR"
     ],
-    "image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg",
+    "image_url": "https://api.neuroschemas.app/images/waste_collection_640x480.jpg",
     "type": "generic",
     "author_name": "Jess Plant",
     "author_location": "GBR",
@@ -152,5 +152,5 @@
     "version": "1.0",
     "license": "GNU-AGPLv3",
     "license_terms": "https://www.gnu.org/licenses/agpl-3.0.en.html",
-    "updatedAt": { "$date": "2022-01-19T09:58:25+0000" }
+    "updatedAt": { "$date": "2022-08-07T09:58:25+0000" }
   }

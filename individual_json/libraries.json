@@ -1,5 +1,5 @@
 {
-    "image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg",
+    "image_url": "https://api.neuroschemas.app/images/libraries_640x480.jpg",
     "events": [
       {
         "behaviours": [
@@ -42,7 +42,7 @@
         "behaviours_available": true,
         "event_name": "Joining the library",
         "rank": 1,
-        "event_image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg"
+        "event_image_url": "https://api.neuroschemas.app/images/libraries_joining_the_library_640x480.jpg"
       },
       {
         "rank": 2,
@@ -75,7 +75,7 @@
         ],
         "behaviours_available": true,
         "event_name": "Library services at home and before going to the library",
-        "event_image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg"
+        "event_image_url": "https://api.neuroschemas.app/images/libraries_services_at_home_640x480.jpg"
       },
       {
         "behaviours_available": true,
@@ -187,7 +187,7 @@
           }
         ],
         "rank": 3,
-        "event_image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg",
+        "event_image_url": "https://api.neuroschemas.app/images/libraries_at_the_library_640x480.jpg",
         "event_name": "At the library"
       }
     ],
@@ -207,5 +207,5 @@
     "version": "1.0",
     "license": "GNU-AGPLv3",
     "license_terms": "https://www.gnu.org/licenses/agpl-3.0.en.html",
-    "updatedAt": { "$date": "2022-01-19T09:58:25+0000" }
+    "updatedAt": { "$date": "2022-08-07T09:58:25+0000" }
   }

@@ -26,11 +26,11 @@
         ],
         "rank": 1,
         "event_name": "Before arriving",
-        "event_image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg"
+        "event_image_url": "https://api.neuroschemas.app/images/swimming_before_arriving_640x480.jpg"
       },
       {
         "event_name": "At the reception",
-        "event_image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg",
+        "event_image_url": "https://api.neuroschemas.app/images/swimming_reception_640x480.jpg",
         "rank": 2,
         "behaviours_available": true,
         "behaviours": [
@@ -64,7 +64,7 @@
       {
         "event_name": "In the changing room",
         "rank": 3,
-        "event_image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg",
+        "event_image_url": "https://api.neuroschemas.app/images/swimming_changing_rooms_640x480.jpg",
         "behaviours_available": true,
         "behaviours": [
           {
@@ -185,11 +185,11 @@
         ],
         "rank": 4,
         "event_name": "In the pool",
-        "event_image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg"
+        "event_image_url": "https://api.neuroschemas.app/images/swimming_in_the_pool_640x480.jpg"
       }
     ],
     "shortuuid": "500C4B",
-    "image_url": "https://api.libreschemas.org/images/placeholder_640x480.jpg",
+    "image_url": "https://api.neuroschemas.app/images/swimming_640x480.jpg",
     "country_code": [
       "GBR"
     ],
@@ -205,5 +205,5 @@
     "version": "1.0",
     "license": "GNU-AGPLv3",
     "license_terms": "https://www.gnu.org/licenses/agpl-3.0.en.html",
-    "updatedAt": { "$date": "2022-01-19T09:58:25+0000" }
+    "updatedAt": { "$date": "2022-08-07T09:58:25+0000" }
   }
