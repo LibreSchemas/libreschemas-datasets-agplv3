@@ -210,32 +210,172 @@
         },
         {
           "rank": 17,
-          "description": "People refer to \"Ward round\" as the weekly appointment with the psychiatrists and other junior staff.",
+          "description": "People may be under observation. Level 4 observation is usually a staff member within arms length, Level 3 observation is usuually a staff member within eyesight (they will follow you everywhere including to bed), Level 2 observation is a staff member checking on you about every 10 minutes.",
           "type": "descriptive_norm"
         },
         {
           "rank": 18,
+          "description": "People refer to \"Ward round\" as the weekly appointment with the psychiatrists and other junior staff.",
+          "type": "descriptive_norm"
+        },
+        {
+          "rank": 19,
           "description": "Breaking the rules of the ward that upset most patients and staff.",
           "type": "unpopular_norm"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "description": "Changing the TV channel that most people are watching.",
           "type": "unpopular_norm"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "description": "Drinking the milk directly from the bottle so no one can make tea or coffee hygienically.",
           "type": "unpopular_norm"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "description": "Most law breaking will be deemed minor as people on the ward are considered to lack any capacity.",
           "type": "infraction"
         }
       ],
-      "challenges_available": false,
-      "event_image_url": "https://api.neuroschemas.app/images/nhs_psychiatric_hospital_life_640x480.png",
+      "challenges_available": true,
+      "challenges": [
+        {
+          "description": "The staff are not helping me.",
+          "tactics": [
+            {
+              "tactic_type": "compete",
+              "description": "Ask a staff member for help. If they can't, ask who can. If no one can help immediately, follow the staff member who is most helpful around the ward.",
+              "rank": 1,
+              "communication_styles": [
+                {
+                  "communication_style_type": "aggressive",
+                  "communication_style_presentation": "No content yet written for this entry."
+                },
+                {
+                  "communication_style_type": "passive-aggressive",
+                  "communication_style_presentation": "No content yet written for this entry."
+                },
+                {
+                  "communication_style_type": "assertive",
+                  "communication_style_presentation": "No content yet written for this entry."
+                }
+              ]
+            },
+            {
+              "tactic_type": "compete",
+              "description": "Locating yourself to place where you needs are required. For example, if you want your phone charged sit outside the locked door where the phones are charged (perhaps take a book if you have one) then you can tag along when another extroverted patient asks to open the door. If you need laundry done and the laundry door is locked, then leave your laundry at the door. If you need towels, sit in front of the locked cupboard that holds towels.",
+              "rank": 2,
+              "communication_styles": [
+                {
+                  "communication_style_type": "aggressive",
+                  "communication_style_presentation": "No content yet written for this entry."
+                },
+                {
+                  "communication_style_type": "passive-aggressive",
+                  "communication_style_presentation": "No content yet written for this entry."
+                },
+                {
+                  "communication_style_type": "assertive",
+                  "communication_style_presentation": "No content yet written for this entry."
+                }
+              ]
+            },
+            {
+              "tactic_type": "compete",
+              "description": "A meltdown is sometimes the only way for staff to take notice and learn. A meltdown is not a tactic an autistic person should have to induce to get their needs met. A fake, safe and controlled meltdown may be the least worst option. Do something that is safe for you and everyone else that provokes attention from the staff. Avoid damaging property if you can.  This may lead to the alarms going off if it shocks the staff (they wasn't expecting it).  Then explain after you had a Autistic meltdown and how things could have been done differently. The staff may still not learn and perceive you as not genuine. Their protocols will probably dictate you are now the highest priority in that moment to de-escalate you. This is the time to make your demands. Be aware this may risk you staying in hospital longer so be very careful how regularly you use this tactic as staff will adapt and continue to ignore you.",
+              "rank": 3,
+              "communication_styles": [
+                {
+                  "communication_style_type": "aggressive",
+                  "communication_style_presentation": "No content yet written for this entry."
+                },
+                {
+                  "communication_style_type": "passive-aggressive",
+                  "communication_style_presentation": "No content yet written for this entry."
+                },
+                {
+                  "communication_style_type": "assertive",
+                  "communication_style_presentation": "No content yet written for this entry."
+                }
+              ]
+            },
+            {
+              "tactic_type": "cooperate",
+              "description": "If you needs are not being met you could try complaining to the Nurse in Charge or the Ward Manager.  They will usually be located in the staff office (knock on the door). You may need to sit outside the staff office to draw attention that you need help.",
+              "rank": 4,
+              "communication_styles": [
+                {
+                  "communication_style_type": "assertive",
+                  "communication_style_presentation": "No content yet written for this entry."
+                }
+              ]
+            },
+            {
+              "tactic_type": "cooperate",
+              "description": "Make a complaint to PALS (Patient Advice and Liaison Service). If you have a mobile phone lookup the PALS phone number or email address from the Hospital Trusts website.  You may be able to get this from the staff or the noticeboards.",
+              "rank": 5,
+              "communication_styles": [
+                {
+                  "communication_style_type": "assertive",
+                  "communication_style_presentation": "No content yet written for this entry."
+                }
+              ]
+            },
+            {
+              "tactic_type": "cooperate",
+              "description": "Find an advocate to represent you. An advocate is a person who puts a case on someone else's behalf.  If you are sectioned then your are legally entitled to an advocate.  You may find a local advocates number on the noticeboard or staff should be able to provide you with a phone number.  You could also Google \"Independent Mental Health Advocate <Your Location>\" to find one",
+              "rank": 6,
+              "communication_styles": [
+                {
+                  "communication_style_type": "assertive",
+                  "communication_style_presentation": "No content yet written for this entry."
+                }
+              ]
+            },
+            {
+              "tactic_type": "withdraw",
+              "description": "Sometimes its better to go without, if our need isn't being met. Especially if the stress involved is too great. Revisit these tactics again another time when you feel more able.",
+              "rank": 7,
+              "communication_styles": [
+                {
+                  "communication_style_type": "passive",
+                  "communication_style_presentation": "No content yet written for this entry."
+                }
+              ]
+            }
+          ],
+          "conflict_types": [
+            {
+              "conflict_type_label": "pseudo",
+              "conflict_type_explainer": "The staff may not realise you need help. Sadly attention is often drawn to the most extrovert and loud."
+            },
+            {
+              "conflict_type_label": "fact",
+              "conflict_type_explainer": "The staff member may have higher priorties at present set by management or to help other people on the ward."
+            },
+            {
+              "conflict_type_label": "value",
+              "conflict_type_explainer": "The staff member may see your needs as an Autistic person as not important, serious or not genuine. The staff member may not be trained on the needs of Autistic people."
+            },
+            {
+              "conflict_type_label": "policy",
+              "conflict_type_explainer": "Managers can set tasks for their staff that are considered more important to patient needs. Other times tasks can take longer because there is a lot of bureaucracy involved."
+            },
+            {
+              "conflict_type_label": "ego",
+              "conflict_type_explainer": "You may have said or done something that has upset a staff members' ego. Don't take this personally as its their issue not yours."
+            },
+            {
+              "conflict_type_label": "meta",
+              "conflict_type_explainer": "The staff maybe undertaking a new treatment plan or strategy with you. They may perceive you as too demanding either generally or for a certain need. By ignoring your requests or not addressing them they may plan to change your behaviour."
+            }
+          ],
+          "rank": 1
+        }
+      ],
+      "event_image_url": "/images/nhs_psychiatric_hospital_life_640x480.png",
       "event_name": "Life in a Psychiatric Hospital",
       "adjustments": [
         {
